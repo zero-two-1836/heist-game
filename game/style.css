@@ -1,0 +1,27 @@
+/* Velvet Fox — page chrome around the canvas. The game itself draws everything. */
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; background: #0b0b12; }
+body {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+  color: #e8e2d4;
+}
+#stage { text-align: center; padding: 12px; }
+#game {
+  display: block;
+  width: min(1280px, 96vw);
+  height: auto;
+  border: 2px solid #3a2f4d;
+  border-radius: 10px;
+  background: #14101d;
+  box-shadow: 0 0 60px rgba(120, 80, 200, 0.25);
+}
+#help {
+  margin: 10px 0 0;
+  font-size: 13px;
+  letter-spacing: 0.04em;
+  color: #9a8fb5;
+}
