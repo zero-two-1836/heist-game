@@ -4,6 +4,7 @@
 
 [![reward](https://make.fun/badge/best-heist-game-20261122-0559/zero-two-1836/heist-game/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
 
+
 # Velvet Fox — The Midnight Gallery Heist
 
 
